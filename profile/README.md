@@ -20,6 +20,8 @@ you, and every mark in that sky still answers to a measurement.
 an observatory. Access points are stars, coloured by band; their clients orbit as satellites; the
 stronger the signal, the closer to the centre. It listens and never transmits.
 
+**[See it in your browser →](https://starchorus.com/pager/)** · **[starchorus.com](https://starchorus.com)**
+
 <table>
   <tr>
     <td width="33%"><img src="img/starchorus-foundation.jpg" alt="Foundation: a quiet star chart on deep blue"></td>
