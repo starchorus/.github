@@ -38,7 +38,7 @@ air quality, signal over time, recording and replay, and a homing meter. GPL-3.0
 
 ## Mac
 
-The machines on your local network, drawn in the same manner, as a native macOS application.
+The Wi-Fi around your Mac, drawn in the same manner: every network within reach, its band, channel and strength, who shares the air with whom, and how all of it changes over the hour. A native macOS application, for the desk rather than the field.
 *In preparation.*
 
 ## How the work is done
